@@ -1,1 +1,22 @@
 0.0.0.0 js.nagich.co.il
+0.0.0.0 cdn.flowplayer.com
+0.0.0.0 ynet-images1.yit.co.il
+0.0.0.0 c2.taboola.com
+0.0.0.0 experience.tinypass.com
+0.0.0.0 cdn.exelator.com
+0.0.0.0 ynet-images1.yit.co.il
+0.0.0.0 c2.taboola.com
+0.0.0.0 cdn.flowplayer.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 cdn.tinypass.com
+0.0.0.0 alerts.ynet.co.il
+0.0.0.0 www.youtube.com
+0.0.0.0 kayma-insights.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 middycdn-a.akamaihd.net
+0.0.0.0 image.p1000.co.il
+0.0.0.0 connect.facebook.net
+0.0.0.0 images1.ynet.co.il
+0.0.0.0 fundingchoicesmessages.google.com
+]
