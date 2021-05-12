@@ -19,4 +19,28 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 images1.ynet.co.il
 0.0.0.0 fundingchoicesmessages.google.com
-]
+0.0.0.0 widget.perfectmarket.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 js.nagich.co.il
+0.0.0.0 alerts.ynet.co.il
+0.0.0.0 middycdn-a.akamaihd.net
+0.0.0.0 www.youtube.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 cdn.tinypass.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ad-delivery.net
+0.0.0.0 cdn.flowplayer.com
+0.0.0.0 tracking1.firstimpression.io
+0.0.0.0 ynet-images1.yit.co.il
+0.0.0.0 cdn.exelator.com
+0.0.0.0 images1.ynet.co.il
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 experience.tinypass.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 15.taboola.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 trc-events.taboola.com
+0.0.0.0 images.taboola.com
+
